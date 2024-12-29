@@ -1,0 +1,107 @@
+[
+    {
+        "id": 1,
+        "first_name": "Vladimir",
+        "last_name": "Kuznetsov",
+        "email": "kuznetsov@kuznetsov.com",
+        "balance": -1000
+    },
+    {
+        "id": 2,
+        "first_name": "Elizabeth",
+        "last_name": "Brown",
+        "email": "brown@brown.by",
+        "balance": 2000
+    },
+    {
+        "id": 3,
+        "first_name": "Alexander",
+        "last_name": "Smith",
+        "email": "smith@smith.com",
+        "balance": -3000
+    },
+    {
+        "id": 4,
+        "first_name": "Vladimir",
+        "last_name": "Johnson",
+        "email": "johnson@johnson.ru",
+        "balance": 4000
+    },
+    {
+        "id": 5,
+        "first_name": "Michael",
+        "last_name": "Williams",
+        "email": "williams@williams.com",
+        "balance": -5000
+    },
+    {
+        "id": 6,
+        "first_name": "Vladimir",
+        "last_name": "Davis",
+        "email": "davis@davis.com",
+        "balance": 6000
+    },
+    {
+        "id": 7,
+        "first_name": "David",
+        "last_name": "Miller",
+        "email": "miller@miller.com",
+        "balance": 7000
+    },
+    {
+        "id": 8,
+        "first_name": "Vladimir",
+        "last_name": "Taylor",
+        "email": "taylor@taylor.by",
+        "balance": 8000
+    },
+    {
+        "id": 9,
+        "first_name": "Olivia",
+        "last_name": "Anderson",
+        "email": "anderson@anderson.us",
+        "balance": -9000
+    },
+    {
+        "id": 10,
+        "first_name": "Vladimir",
+        "last_name": "Thomas",
+        "email": "thomas@thomas.com",
+        "balance": 10000
+    },
+    {
+        "id": 11,
+        "first_name": "Emma",
+        "last_name": "Jackson",
+        "email": "jackson@jackson.ru",
+        "balance": 11000
+    },
+    {
+        "id": 12,
+        "first_name": "Jacob",
+        "last_name": "White",
+        "email": "white@white.com",
+        "balance": -12000
+    },
+    {
+        "id": 13,
+        "first_name": "Emily",
+        "last_name": "Harris",
+        "email": "harris@harris.ru",
+        "balance": 13000
+    },
+    {
+        "id": 14,
+        "first_name": "Michael",
+        "last_name": "Martin",
+        "email": "martin@martin.by",
+        "balance": 14000
+    },
+    {
+        "id": 15,
+        "first_name": "Vladimir",
+        "last_name": "Thompson",
+        "email": "thompson@thompson.me",
+        "balance": -15000
+    }
+]
